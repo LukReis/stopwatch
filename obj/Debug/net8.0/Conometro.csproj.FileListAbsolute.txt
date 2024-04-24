@@ -1,0 +1,14 @@
+d:\Testes de Aprendizado\Conometro\obj\Debug\net8.0\Conometro.GeneratedMSBuildEditorConfig.editorconfig
+d:\Testes de Aprendizado\Conometro\obj\Debug\net8.0\Conometro.AssemblyInfoInputs.cache
+d:\Testes de Aprendizado\Conometro\obj\Debug\net8.0\Conometro.AssemblyInfo.cs
+d:\Testes de Aprendizado\Conometro\obj\Debug\net8.0\Conometro.csproj.CoreCompileInputs.cache
+D:\Testes de Aprendizado\Conometro\bin\Debug\net8.0\Conometro.exe
+D:\Testes de Aprendizado\Conometro\bin\Debug\net8.0\Conometro.deps.json
+D:\Testes de Aprendizado\Conometro\bin\Debug\net8.0\Conometro.runtimeconfig.json
+D:\Testes de Aprendizado\Conometro\bin\Debug\net8.0\Conometro.dll
+D:\Testes de Aprendizado\Conometro\bin\Debug\net8.0\Conometro.pdb
+D:\Testes de Aprendizado\Conometro\obj\Debug\net8.0\Conometro.dll
+D:\Testes de Aprendizado\Conometro\obj\Debug\net8.0\refint\Conometro.dll
+D:\Testes de Aprendizado\Conometro\obj\Debug\net8.0\Conometro.pdb
+D:\Testes de Aprendizado\Conometro\obj\Debug\net8.0\Conometro.genruntimeconfig.cache
+D:\Testes de Aprendizado\Conometro\obj\Debug\net8.0\ref\Conometro.dll
